@@ -18,8 +18,8 @@
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-midnight
-# theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+# theme: jekyll-theme-minimal
 # theme: jekyll-theme-modernist
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-tactile
