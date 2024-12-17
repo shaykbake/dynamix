@@ -1,16 +1,15 @@
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-plugins:
-  - jekyll-relative-links
-  - 
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# plugins:
+#   - jekyll-relative-links
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
 
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-cayman
