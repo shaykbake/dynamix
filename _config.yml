@@ -21,7 +21,7 @@ kramdown:
 # theme: jekyll-theme-midnight
 # theme: minima
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-modernist
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
+# theme: jekyll-theme-slate
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-time-machine
