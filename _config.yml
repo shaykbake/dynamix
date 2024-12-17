@@ -24,6 +24,4 @@ kramdown:
 # theme: jekyll-theme-modernist
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-tactile
-# theme: jekyll-theme-time-machine
-
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-time-machine
